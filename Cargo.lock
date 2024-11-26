@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+<<<<<<< HEAD
 name = "expences_tracker"
+=======
+name = "Expense_Tracker"
+>>>>>>> 4fbf5ef7a70f72ec0e5cf6f976c047a40ef2a63c
 version = "0.1.0"
